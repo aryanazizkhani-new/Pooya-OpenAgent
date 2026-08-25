@@ -1,0 +1,11 @@
+OpenAgent
+
+Copyright (c) 2026 Aryan
+
+All rights reserved.
+
+This project is proprietary software.
+
+No permission is granted to copy, redistribute, modify, or commercially exploit this software without prior written authorization from the copyright holder.
+
+See LICENSE.txt for the complete licensing terms.

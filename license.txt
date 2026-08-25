@@ -1,0 +1,24 @@
+# OpenAgent Proprietary License
+
+Copyright (c) 2026 Aryan
+
+All rights reserved.
+
+This software and all associated source code, documentation, designs, and assets are the exclusive property of the copyright holder.
+
+Permission is granted to download and review this software solely for evaluation and educational purposes.
+
+Without prior written permission from the copyright holder, you may not:
+
+* Copy or redistribute the source code.
+* Modify or create derivative works.
+* Publish any portion of the source code.
+* Use the software or its source code in commercial products or services.
+* Remove or alter copyright notices.
+* Reverse engineer the software except where required by applicable law.
+
+The copyright holder retains all intellectual property rights in this project, including all source code, architecture, algorithms, and documentation.
+
+This software is provided "AS IS", without warranty of any kind. The copyright holder shall not be liable for any damages arising from the use of this software.
+
+For licensing inquiries or commercial use, contact the copyright holder.

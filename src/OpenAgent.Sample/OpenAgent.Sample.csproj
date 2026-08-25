@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+
+    <TargetFramework>net10.0-windows</TargetFramework>
+
+    <UseWindowsForms>true</UseWindowsForms>
+
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+
+    <ProjectReference Include="..\OpenAgent.Runtime\OpenAgent.Runtime.csproj" />
+
+    <ProjectReference Include="..\OpenAgent.AI\OpenAgent.AI.csproj" />
+
+
+    <Reference Include="OpenAgent.Interop">
+      <HintPath>..\OpenAgent.InteropWrapper\lib\OpenAgent.Interop.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+
+  </ItemGroup>
+
+
+</Project>

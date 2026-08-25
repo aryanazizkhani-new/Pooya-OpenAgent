@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OpenAgent.InteropGenerator/OpenAgent.InteropGenerator.csproj" />
+    <Project Path="src/OpenAgent.Runtime/OpenAgent.Runtime.csproj" />
+    <Project Path="src/OpenAgent.Sample/OpenAgent.Sample.csproj" />
+  </Folder>
+</Solution>

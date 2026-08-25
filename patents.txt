@@ -1,0 +1,9 @@
+# Patent Notice
+
+OpenAgent may contain technical concepts, software architecture, workflows, or implementation methods that are proprietary to the copyright holder.
+
+Nothing in this repository grants any patent license, whether express or implied.
+
+The copyright holder reserves the right to seek patent protection for any novel inventions, methods, or technologies embodied in this project.
+
+If patent protection is obtained in the future, use of any patented technology will require authorization from the patent holder unless otherwise stated in writing.

@@ -1,0 +1,44 @@
+OpenAgent - Requirements
+========================
+
+Operating System:
+- Windows 10 or later
+- Windows 11 recommended
+
+Runtime:
+- .NET 8.0 or later
+- .NET SDK
+
+Development:
+- Visual Studio 2022 or later
+- OR Visual Studio Code with C# support
+
+Dependencies:
+- Double Agent
+- Double Agent COM components
+- DaServer.tlb
+
+Characters:
+- Microsoft Agent-compatible characters
+- Bonzi, Peedy, Merlin, Genie, Rover, etc.
+
+Hardware:
+- x64 CPU recommended
+- 2 GB RAM minimum
+- 500 MB free storage
+- Dedicated GPU not required
+
+Optional:
+- Text-to-Speech engine
+- Speech recognition
+- Additional voice packages
+
+Internet:
+- Not required to run OpenAgent
+- Required for downloading dependencies and updates
+
+Build:
+    dotnet build
+
+Run:
+    dotnet run --project OpenAgent.Sample

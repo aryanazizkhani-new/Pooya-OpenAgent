@@ -1,0 +1,128 @@
+# ==========================================
+# OpenAgent - Git Ignore
+# ==========================================
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+arm64/
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.nupkg
+*.snupkg
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# MSBuild
+*.rsuser
+*.sdf
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Windows crash dumps
+*.dmp
+
+# Coverage
+coverage/
+coverage.*
+*.coverage
+*.coveragexml
+
+# Generated documentation
+docs/_build/
+
+# Publish output
+publish/
+[Pp]ublish/
+
+# Local configuration
+appsettings.Local.json
+appsettings.Development.json
+
+# User-specific generated files
+*.generated.cs
+
+# ==========================================
+# OpenAgent-specific
+# ==========================================
+
+# Local Double Agent installation files
+DoubleAgent/
+doubleagent/
+
+# Temporary character files
+*.tmp.acs
+*.tmp.acf
+
+# Local test characters
+TestCharacters/
+
+# Runtime generated data
+OpenAgent.Runtime/data/
+OpenAgent.Runtime/cache/
+
+# Local logs
+OpenAgent*/logs/
+OpenAgent*/Logs/
+
+# ==========================================
+# IMPORTANT
+# ==========================================
+
+# DaServer.tlb is intentionally NOT ignored.
+# It is required by OpenAgent.Interop.
+
+# README.md
+# LICENSE
+# *.cs
+# *.csproj
+# *.slnx
+# DaServer.tlb
+# These files should remain tracked.
