@@ -118,6 +118,41 @@ Example:
 Future versions may provide support for multiple Text-to-Speech engines.
 
 ---
+---
+
+## 🤖 AI Providers
+
+OpenAgent supports AI integration through multiple providers, allowing classic Agent characters to interact with modern AI models.
+
+### Supported Providers
+
+- OpenRouter
+- Ollama (Local AI)
+
+### Planned Providers
+
+- OpenAI
+- Google Gemini
+- Anthropic Claude
+- DeepSeek
+- Mistral AI
+- Groq
+- xAI (Grok)
+- Azure OpenAI
+
+### Features
+
+- AI-powered character conversations
+- Multiple AI provider support
+- Model selection
+- Provider switching
+- Conversation history
+- Local AI support
+- Custom API configuration
+
+AI integration is designed to be modular, allowing new providers to be integrated without changing the core Agent runtime.
+
+---
 
 ## 🛠️ Requirements
 
